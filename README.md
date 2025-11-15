@@ -10,8 +10,22 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 [![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/update)](https://github.com/xiaoran67/update/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/update)](https://github.com/xiaoran67/update/pulls)
 [![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
-
 </div>
+
+
+
+
+<!-- $$$$$$$$$$$$$$$$$$ -->
+
+
+<p>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xiaoran67/update">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/xiaoran67/update">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/xiaoran67/update">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/xiaoran67/update">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/xiaoran67/update">
+<img alt="GitHub" src="https://img.shields.io/github/license/xiaoran67/update">
+</p>
 
 <!-- 2. 提交连续天数（Streak统计） -->
 <img alt="提交连续天数" align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoran67&theme=dark&fire=FF4500&hide_border=true">
@@ -77,25 +91,6 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 <!-- $$$$$$$$$$$$$$$$$$ -->
 
-### 📌 Core Repository (update)
-<div align="center">
-  <a href="https://github.com/xiaoran67/update" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoran67&repo=update&theme=dark&hide_border=true&description_lines_count=3" alt="update Repository" width="80%">
-  </a>
-  <p>📢 直播源自动更新仓库，含定时同步、格式校验、异常修复功能，持续维护中</p>
-</div>
-
-<!-- $$$$$$$$$$$$$$$$$$ -->
-
-
-<p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xiaoran67/update">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/xiaoran67/update">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/xiaoran67/update">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/xiaoran67/update">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/xiaoran67/update">
-<img alt="GitHub" src="https://img.shields.io/github/license/xiaoran67/update">
-</p>
 
 
 
@@ -378,5 +373,13 @@ https://funletu.com/emoji/
 https://www.emojiall.com/zh-hans
 
 https://emoji6.com/emojiall/
+
+### 📌 Core Repository (update)
+<div align="center">
+  <a href="https://github.com/xiaoran67/update" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoran67&repo=update&theme=dark&hide_border=true&description_lines_count=3" alt="update Repository" width="80%">
+  </a>
+  <p>📢 直播源自动更新仓库，含定时同步、格式校验、异常修复功能，持续维护中</p>
+</div>
 
 [回到顶部](#readme)
