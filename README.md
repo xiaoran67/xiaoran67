@@ -66,6 +66,15 @@ No video files are stored in this repository. The repository simply contains use
 
 
 ## 💬 Connect With Me
+
+<div align="center">
+<div class="contact-info">
+    <a href="https://t.me/xiaoran37" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
+    </a>
+</div>
+
+
 <div align="center">
   <a href="https://t.me/xiaoran37" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -76,13 +85,6 @@ No video files are stored in this repository. The repository simply contains use
   <a href="https://github.com/xiaoran67" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</div>
-
-<div align="center">
-<div class="contact-info">
-    <a href="https://t.me/xiaoran37" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
-    </a>
 </div>
 
 
