@@ -23,22 +23,6 @@
 
 
 
-<!-- 9. 最新提交记录 -->
-
-## 📝 Recent Commits (Update Repo)
-<!--START_SECTION:activity-->
-- 💪 Opened PR in [xiaoran67/update](https://github.com/xiaoran67/update/commits/main)
-<!--END_SECTION:activity-->
-
-
-
-## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main.yml)
-## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main0.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main0.yml)
-## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main1.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main1.yml)
-## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main2.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main2.yml)
-## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main3.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main3.yml)
-
-Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
 
 ## 📊 Star History
 [![Star History](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/xiaoran67/update)
