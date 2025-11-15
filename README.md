@@ -14,16 +14,6 @@
 
 
 
-## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main.yml)
-## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main0.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main0.yml)
-## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main1.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main1.yml)
-## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main2.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main2.yml)
-## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main3.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main3.yml)
-
-Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
-
-
-
 <p align="center">
   <a href="https://github.com/xiaoran67/update">
     <img src="https://img.shields.io/github/stars/xiaoran67/update" />
@@ -75,6 +65,17 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 <!--START_SECTION:activity-->
 - 💪 Opened PR in [xiaoran67/update](https://github.com/xiaoran67/update/commits/main)
 <!--END_SECTION:activity-->
+
+
+
+## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main.yml)
+## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main0.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main0.yml)
+## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main1.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main1.yml)
+## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main2.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main2.yml)
+## Actions [![update](https://github.com/xiaoran67/update/actions/workflows/main3.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main3.yml)
+
+Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
+
 
 
   <h1 align="center">影视点播直播源</h1>
