@@ -33,9 +33,6 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
   <a href="https://github.com/xiaoran67/update/releases/latest">
     <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" />
   </a>
-  <a href="https://hub.docker.com/repository/docker/xiaoran67/update">
-    <img src="https://img.shields.io/docker/pulls/xiaoran67/update" />
-  </a>
   <a href="https://github.com/xiaoran67/update/fork">
     <img src="https://img.shields.io/github/forks/xiaoran67/update" />
   </a>
@@ -58,6 +55,10 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
   <a href="https://github.com/xiaoran67/update/fork">
     <img src="https://img.shields.io/github/forks/xiaoran67/update" />
   </a>
+    <a href="https://hub.docker.com/repository/docker/xiaoran67/update">
+    <img src="https://img.shields.io/docker/pulls/xiaoran67/update" />
+  </a>
+
 </p>
 
 
