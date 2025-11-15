@@ -10,7 +10,7 @@
 
 
 
-## 📺 [![update](https://github.com/xiaoran67/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/xiaoran67/iptv/actions/workflows/update.yml)
+## 📺 [![update](https://github.com/xiaoran67/update/actions/workflows/main.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main.yml)
 
 Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
 
