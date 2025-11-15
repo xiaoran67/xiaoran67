@@ -19,8 +19,9 @@
 <br clear="both">
 
 ### 🔥 Annual Contribution Heatmap
+
 <!-- Annual Contribution Heatmap -->
-<img alt="Annual Contribution Heatmap" align="left" width="800px" src="https://github-readme-stats.vercel.app/api?username=xiaoran67&show_icons=false&count_private=true&theme=dark&hide_border=true&custom_title=Annual Contribution Heatmap&card_width=800&include_all_commits=true">
+<img alt="Annual Contribution Heatmap" align="left" width="800px" src="https://github-readme-stats.vercel.app/api?username=xiaoran67&show_icons=false&count_private=true&theme=dark&hide_border=true&custom_title=年度贡献热力图&card_width=800&include_all_commits=true">
 <br clear="both">
 
 ### 🏆 Open Source Contribution Level Badge
