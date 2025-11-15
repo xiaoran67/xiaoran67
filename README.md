@@ -74,18 +74,6 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 </p>
 
 
-
-<p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xiaoran67/update">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/xiaoran67/update">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/xiaoran67/update">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/xiaoran67/update">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/xiaoran67/update">
-<img alt="GitHub" src="https://img.shields.io/github/license/xiaoran67/update">
-</p>
-
-
-
 <!-- 提交连续天数（Streak统计） -->
 <img alt="提交连续天数" align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoran67&theme=dark&fire=FF4500&hide_border=true">
 
