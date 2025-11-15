@@ -1,16 +1,17 @@
 name: Update Recent Commits (Update Repo)
 on:
+  schedule:
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
   update-activity:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 关键：赋予写入权限
+      contents: write
     steps:
       - uses: actions/checkout@v4
       
-      # 新增：配置Git提交者信息
       - name: Configure Git
         run: |
           git config --global user.name "GitHub Action"
