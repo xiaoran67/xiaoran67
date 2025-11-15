@@ -71,3 +71,8 @@
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Meroser/IPTV">
 <img alt="GitHub" src="https://img.shields.io/github/license/Meroser/IPTV">
 </p>
+
+<h2>📊 Star History</h2>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=vbskycn/iptv&type=Date)](https://star-history.com/#xiaoran67/xiaoran67&Date)
+
