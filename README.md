@@ -75,7 +75,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 <!-- 联系方式区域 -->
 
-## 🔗 Connect With Me
+## 💬 Connect With Me
 <div align="center">
   <a href="https://t.me/xiaoran37" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -88,10 +88,6 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
   </a>
 </div>
 
-<!-- $$$$$$$$$$$$$$$$$$ -->
-
-
-<h2>💬 Connect</h2>
 
 <div class="contact-info">
     <a href="https://t.me/xiaoran37" target="_blank">
