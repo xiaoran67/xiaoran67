@@ -1,4 +1,4 @@
-
+<p align="center">
 [![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/network/members)
 [![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/update)](https://github.com/xiaoran67/update/issues)
