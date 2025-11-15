@@ -128,7 +128,7 @@
 
 本项目仅供学习交流用途，接口数据均来源于网络，如有侵权，请联系删除
 
-## 许可证
+## LICENSE
 
 [MIT](./LICENSE) License &copy; 2023-PRESENT [xiaoran67](https://github.com/xiaoran67)
 
