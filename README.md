@@ -103,7 +103,7 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/update&type=Date)](https://star-history.com/#xiaoran67/update&Date)
 ## Star History
 
-[![Star统计](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/Guovin/iptv-api)
+[![Star History](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/xiaoran67/update)
 
 <!-- $$$$$$$$$$$$$$$$$$ -->
 <p align="center">
