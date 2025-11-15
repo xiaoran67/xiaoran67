@@ -120,6 +120,9 @@
 <h2>📊 Star History</h2>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/update&type=Date)](https://star-history.com/#xiaoran67/update&Date)
+## Star统计
+
+[![Star统计](https://starchart.cc/Guovin/iptv-api.svg?variant=adaptive)](https://starchart.cc/Guovin/iptv-api)
 
 ## 免责声明
 
