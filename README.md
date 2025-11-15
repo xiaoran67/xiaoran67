@@ -65,13 +65,26 @@ This project is for educational and communication purposes only. All interface d
   <a href="https://github.com/xiaoran67" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</div>
 
-<img src="https://img.shields.io/github/v/release/xiaoran67/update" alt="Latest Release" />
-</a>
-<a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-%3D%203.13-47c219" alt="Python Version" />
-</a>
-<a href="https://github.com/xiaoran67/update/releases/latest">
-    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" alt="Total Downloads" />
-</a>
+
+
+
+<br>
+
+[![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/update)](https://github.com/xiaoran67/update/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/update)](https://github.com/xiaoran67/update/pulls)
+[![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/xiaoran67/update)](https://github.com/xiaoran67/update/releases/latest)
+[![Python Version](https://img.shields.io/badge/python-%3D%203.13-47c219)](https://www.python.org/)
+[![Total Downloads](https://img.shields.io/github/downloads/xiaoran67/update/total)](https://github.com/xiaoran67/update/releases/latest)
+
+<br>
+
+[![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update)](https://github.com/xiaoran67/update)
+[![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update)](https://github.com/xiaoran67/update/fork)
+[![Latest Release](https://img.shields.io/github/v/release/xiaoran67/update)](https://github.com/xiaoran67/update/releases)
+[![Total Downloads](https://img.shields.io/github/downloads/xiaoran67/update/total)](https://github.com/xiaoran67/update/releases)
+[![Python Version](https://img.shields.io/badge/python-%3D%203.13-47c219)](https://www.python.org/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/xiaoran67/update)](https://hub.docker.com/repository/docker/xiaoran67/update)
