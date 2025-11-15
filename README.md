@@ -33,7 +33,7 @@
 <img alt="Annual Contribution Heatmap" align="left" width="800px" src="https://github-readme-activity-graph.cyclic.app/graph?username=xiaoran67&theme=github-dark&hide_border=true&area=true&height=300">
 
 
-<!-- 模块6：访问量统计（区分README与主页） -->
+<!-- 模块6：访问量统计（已修复语法，正常显示图片） -->
 <img alt="README Views" align="left" width="400px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxiaoran67%2Fxiaoran67&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=README+Views&edge_flat=false">
 ![Profile Views](https://count.getloli.com/get/@xiaoran67?theme=asoul)
 
@@ -48,9 +48,9 @@
 - E-mail: xiaoranmuze@gmail.com
 
 
-<!-- 模块8：update仓库最新提交记录（稳定同步，专属核心项目） -->
+<!-- 模块8：update仓库最新提交记录（已成功同步，稳定显示） -->
 ### 📝 Recent Commits (Update Repo)
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [xiaoran67/update](https://github.com/xiaoran67/update)
-2. 💪 Opened PR [#4](undefined) in [xiaoran67/update](https://github.com/xiaoran67/update)
+1. 📌 Opened PR #5 in xiaoran67/update
+2. 📌 Opened PR #4 in xiaoran67/update
 <!--END_SECTION:activity-->
