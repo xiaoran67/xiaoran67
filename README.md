@@ -1,4 +1,12 @@
 ### 🚀 About
+<h2>💬 联系</h2>
+
+<div class="contact-info">
+    <a href="https://t.me/starkluistn98" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-@starkluistn98-blue?style=flat-square&logo=telegram" alt="Telegram" />
+    </a>
+</div>
+
 
 <!-- 2. 提交连续天数（Streak统计） -->
 <img alt="提交连续天数" align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoran67&theme=dark&fire=FF4500&hide_border=true">
