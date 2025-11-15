@@ -86,7 +86,7 @@
 
 
 
-## ⭐ Star History
+## 📊 Star History
 
 [![Star History](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/xiaoran67/update)
 <!-- $$$$$$$$$$$$$$$$$$ -->
@@ -102,7 +102,7 @@
     <img src="https://views.whatilearened.today/views/github/xiaoran67/update.svg" alt="访问统计" />
 </div>
 
-<h2>📊 Star History</h2>
+<h2>⭐ Star History</h2>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/update&type=Date)](https://star-history.com/#xiaoran67/update&Date)
 
