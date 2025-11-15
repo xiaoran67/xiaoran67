@@ -1,8 +1,8 @@
 name: Update Recent Commits (Update Repo)
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小时自动更新
-  workflow_dispatch:  # 手动触发
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-activity:
@@ -15,6 +15,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_LIMIT: 5  # 显示最近5条提交
-          OUTPUT_FILE: README.md  # 写入README
-          REPO_FILTER: "xiaoran67/update"  # 仅同步update仓库的提交
+          GH_USERNAME: "xiaoran67"  # 你的GitHub用户名
+          MAX_LINES: 5  # 对应原COMMIT_LIMIT（显示5条提交）
+          TARGET_FILE: "README.md"  # 对应原OUTPUT_FILE（输出到README）
+          COMMIT_NAME: "GitHub Action Bot"  # 提交者名称
+          COMMIT_EMAIL: "action@github.com"  # 提交者邮箱
