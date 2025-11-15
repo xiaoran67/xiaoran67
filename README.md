@@ -39,7 +39,7 @@
 
 ### 📝 Recent Commits (Update Repo)
 <!--START_SECTION:activity-->
-<!-- 由GitHub Action自动填充（仅展示update仓库提交） -->
+1. 💪 Opened PR [#5](undefined) in [xiaoran67/update](https://github.com/xiaoran67/update)
 <!--END_SECTION:activity-->
 
 
