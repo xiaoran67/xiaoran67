@@ -121,3 +121,10 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/update&type=Date)](https://star-history.com/#xiaoran67/update&Date)
 
+## 免责声明
+
+本项目仅供学习交流用途，接口数据均来源于网络，如有侵权，请联系删除
+
+## 许可证
+
+[MIT](./LICENSE) License &copy; 2024-PRESENT [xiaoran67](https://github.com/xiaoran67)
