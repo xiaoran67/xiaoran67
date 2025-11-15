@@ -73,7 +73,6 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 ![主页总访问量](https://count.getloli.com/get/@xiaoran67?theme=asoul)
 <br clear="both">
 
-<!-- 联系方式区域 -->
 
 ## 💬 Connect With Me
 <div align="center">
@@ -88,7 +87,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
   </a>
 </div>
 
-
+<div align="center">
 <div class="contact-info">
     <a href="https://t.me/xiaoran37" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
