@@ -1,12 +1,4 @@
 ### 🚀 About
-<h2>💬 联系</h2>
-
-<div class="contact-info">
-    <a href="https://t.me/xiaoran37" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
-    </a>
-</div>
-
 
 <!-- 2. 提交连续天数（Streak统计） -->
 <img alt="提交连续天数" align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoran67&theme=dark&fire=FF4500&hide_border=true">
@@ -47,6 +39,14 @@
   <a href="https://github.com/xiaoran67" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+</div>
+
+<h2>💬 联系</h2>
+
+<div class="contact-info">
+    <a href="https://t.me/xiaoran37" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
+    </a>
 </div>
 
 <!-- 9. 最新提交记录 -->
