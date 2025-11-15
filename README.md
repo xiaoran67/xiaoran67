@@ -100,14 +100,6 @@ No video files are stored in this repository. The repository simply contains use
   </a>
 
 
-  
-    <a href="https://t.me/xiaoran37" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
-    </a>
-</div>
-
-
-
 ## 💬 Connect With Me
 <div align="center">
   <a href="https://t.me/xiaoran37" target="_blank">
