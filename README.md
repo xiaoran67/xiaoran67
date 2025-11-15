@@ -46,17 +46,28 @@
 ### ⚠️ Disclaimer
 This project is for educational and communication purposes only. All interface data is sourced from the internet; we do not provide any playlists or other digital content, and please contact us for removal if there is any infringement.
 
-### 📈 Project Metrics
-### 💬 Connect Me
+### 💬 Connect With Me
 <div align="center">
-    [![Telegram](https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram)](https://t.me/xiaoran37)
-</div>
-<div align="center">
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xiaoran37)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xiaoranmuze@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaoran67)
+  <a href="https://t.me/xiaoran37" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:xiaoranmuze@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/xiaoran67" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
 
+<div align="center">
+<div class="contact-info">
+    <a href="https://t.me/xiaoran37" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
+    </a>
+</div>
+
+### 📈 Project Metrics
+<div align="center">
 <br>
 
 [![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
