@@ -145,7 +145,52 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 </p>
 <!-- $$$$$$$$$$$$$$$$$$ -->
 
+  <h1 align="center">影视点播直播源</h1>
+</div>
 
+<div align="center">💋所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
+👉所有以任何方式查看本仓库内容的人或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。</div>
+<br>
+<p align="center">
+  <a href="https://github.com/alantang1977/X/releases">
+    <img src="https://img.shields.io/github/v/release/alantang1977/X" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
+  </a>
+  <a href="https://github.com/alantang1977/X/releases">
+    <img src="https://img.shields.io/github/downloads/alantang1977/X/total" />
+  </a>
+  <a href="https://github.com/alantang1977/X">
+    <img src="https://img.shields.io/github/stars/alantang1977/X" />
+  </a>
+  <a href="https://github.com/alantang1977/X/fork">
+    <img src="https://img.shields.io/github/forks/alantang1977/X" />
+  </a>
+</p>
+# 🏂大神分享注册工具🏂
+
+##  临时邮箱 https://etempmail.com/zh ； https://www.mffac.com/
+
+## 真实地址生成器 https://ip-geoaddress-generator.pages.dev/
+
+## 测试真实网速 https://www.itdog.cn/tcping/
+# 部分海外源
+    中国大陆频道：https://epg.pw/test_channels.m3u
+    香港频道：https://epg.pw/test_channels_hong_kong.m3u
+    澳门频道：https://epg.pw/test_channels_macau.m3u
+    台湾频道：https://epg.pw/test_channels_taiwan.m3u
+    台湾频道：https://iptv-org.github.io/iptv/countries/tw.m3u
+    新加坡频道：https://epg.pw/test_channels_singapore.m3u
+    马来西亚频道：https://epg.pw/test_channels_malaysia.m3u📄在线M3U转TXT：
+
+Demo🔗 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
+
+🌐M3U8 Web Player:
+
+Demo🔗 https://live.fanmingming.cn/player/?vurl=https://0472.org/hls/cgtn.m3u8
+
+[回到顶部](#readme)
 ## 免责声明
 
 本项目仅供学习交流用途，接口数据均来源于网络，如有侵权，请联系删除
@@ -260,5 +305,84 @@ Or free on the Internet:
 - Youtube live channels
 
 To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8.
+
+# 🍓Github在线加速镜像 
+# Github国内代理：https://ghproxy.link  https://xiake.pro/
+                 
+
+    https://ghfile.geekertao.top/https://github.com/
+    https://cors.zme.ink/https://raw.githubusercontent.com/
+    https://slink.ltd/https://raw.githubusercontent.com/
+    https://gh.tryxd.cn/https://raw.githubusercontent.com/
+    https://ghproxy.cfd/https:/raw.githubusercontent.com/
+    https://gh.xxooo.cf/https://raw.githubusercontent.com/
+    https://ghfast.top/  
+    https://ghproxy.cc/https://raw.githubusercontent.com/
+    https://ghfast.top/raw.githubusercontent.com/
+    https://ghgo.xyz/https://raw.githubusercontent.com/
+    https://ghp.ci/https://raw.githubusercontent.com/
+    https://gh.llkk.cc/https://raw.githubusercontent.com/
+    https://github.ednovas.xyz/https://raw.githubusercontent.com/ 
+    https://gh.con.sh/https://raw.githubusercontent.com/
+    https://github.moeyy.xyz/https://raw.githubusercontent.com/
+    https://mirror.ghproxy.com/raw.githubusercontent.com/
+    https://already.free.hr/
+    https://raw.gitmirror.com/
+    https://gh-proxy.com/https://raw.githubusercontent.com/
+    https://ghps.cc/
+    https://ghproxy.homeboyc.cn/
+    https://tool.mintimate.cn/gh/
+    https://gh.api.99988866.xyz
+    https://gh.ddlc.top/
+    https://ghps.cc/
+    https://github.abskoop.workers.dev/
+    https://git.886.be/
+     
+    https://a.ouhuang.onflashdrive.app/https://raw.githubusercontent.com/
+    https://ghproxy.com/https://raw.githubusercontent.com/
+    https://ghproxy.net/https://raw.githubusercontent.com/
+    https://githubfd.deno.dev/
+    https://mirror.ghproxy.com/https://raw.githubusercontent.com/
+    Github RAW 加速服务
+
+    源码 https://gitcdn.top/https://github.com/alantang1977/X/raw/main/X.json
+    香港 https://raw.iqiq.io/alantang1977/X/main/X.json
+    新加坡 https://raw.kgithub.com/
+    日本
+    https://fastly.jsdelivr.net/gh/用户名/项目名@main/源文件.json
+    https://cdn.staticaly.com/gh/
+    https://raw.fastgit.org/
+    韩国
+    https://ghproxy.com/https://raw.githubusercontent.com/
+    https://ghproxy.net/https://raw.githubusercontent.com/
+
+    https://gcore.jsdelivr.net/gh/
+    https://raw.githubusercontents.com/
+
+    Github 静态加速
+    https://cdn.staticaly.com/gh/alantang1977/X/main/X.json
+
+    https://cdn.jsdelivr.net/gh/alantang1977/X@main/X.json
+    
+    https://purge.jsdelivr.net/gh/alantang1977/X/main/X.json
+
+
+# 🍑电视直播搜索引擎
+
+    https://api.pearktrue.cn/api/tv/search.php?name=明珠台    (搜索电视直播源）
+    https://www.foodieguide.com/iptvsearch/
+    http://tonkiang.us
+    https://streamtest.in
+    https://iptv-org.github.io
+
+## emoji表情符号大全-emoji在线复制粘贴 
+
+https://play.igo9go.cn/emojiall/#animals-nature
+
+https://funletu.com/emoji/
+
+https://www.emojiall.com/zh-hans
+
+https://emoji6.com/emojiall/
 
 [回到顶部](#readme)
