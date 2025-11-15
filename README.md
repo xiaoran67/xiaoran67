@@ -66,11 +66,10 @@ This project is for educational and communication purposes only. All interface d
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
-
-
-
+### 📈 Project Metrics
+<div align="center">
+<div class="contact-info">
 <br>
-
 [![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/update)](https://github.com/xiaoran67/update/issues)
