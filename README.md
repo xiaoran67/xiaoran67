@@ -84,6 +84,11 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/xiaoran67/update">
 </p>
 
+
+
+## 📊 Star History
+
+[![Star History](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/xiaoran67/update)
 <!-- $$$$$$$$$$$$$$$$$$ -->
 
 
@@ -96,11 +101,6 @@
     <img src="https://img.shields.io/github/license/xiaoran67/update?style=flat-square" alt="GitHub license" />
     <img src="https://views.whatilearened.today/views/github/xiaoran67/update.svg" alt="访问统计" />
 </div>
-
-
-## 📊 Star History
-
-[![Star History](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/xiaoran67/update)
 
 <h2>📊 Star History</h2>
 
