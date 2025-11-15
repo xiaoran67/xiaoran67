@@ -75,19 +75,6 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 - 💪 Opened PR in [xiaoran67/update](https://github.com/xiaoran67/update/commits/main)
 <!--END_SECTION:activity-->
 
-<!-- $$$$$$$$$$$$$$$$$$ -->
-
-
-
-
-## 📊 Star History
-[![Star History](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/xiaoran67/update)
-
-## ⭐ Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/update&type=Date)](https://star-history.com/#xiaoran67/update&Date)
-
-
-<!-- $$$$$$$$$$$$$$$$$$ -->
 
   <h1 align="center">影视点播直播源</h1>
 </div>
@@ -118,22 +105,6 @@ Demo🔗 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv
 
 Demo🔗 https://live.fanmingming.cn/player/?vurl=https://0472.org/hls/cgtn.m3u8
 
-## 免责声明
-
-本项目仅供学习交流用途，接口数据均来源于网络，如有侵权，请联系删除
-
-## License
-
-[MIT](./LICENSE) License &copy; 2023-PRESENT [xiaoran67](https://github.com/xiaoran67)
-
-## Disclaimer
-
-**xiaoran67 doesn't provide any playlists or other digital content.**
-
-
-## Legal
-
-No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a [pull request](https://github.com/xiaoran67/update/pulls) or opening an [issue](https://github.com/xiaoran67/update/issues/new?assignees=freearhey&labels=removal+request&template=--removal-request.yml&title=Remove%3A+). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
 
 
 ## 🍓Github proxy 
@@ -223,6 +194,28 @@ https://emoji6.com/emojiall/
   <p>📢 直播源自动更新仓库，含定时同步、格式校验、异常修复功能，持续维护中</p>
 </div>
 
+## 📊 Star History
+[![Star History](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/xiaoran67/update)
+
+## ⭐ Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/update&type=Date)](https://star-history.com/#xiaoran67/update&Date)
+
+## 免责声明
+
+本项目仅供学习交流用途，接口数据均来源于网络，如有侵权，请联系删除
+
+## License
+
+[MIT](./LICENSE) License &copy; 2023-PRESENT [xiaoran67](https://github.com/xiaoran67)
+
+## Disclaimer
+
+**xiaoran67 doesn't provide any playlists or other digital content.**
+
+
+## Legal
+
+No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a [pull request](https://github.com/xiaoran67/update/pulls) or opening an [issue](https://github.com/xiaoran67/update/issues/new?assignees=freearhey&labels=removal+request&template=--removal-request.yml&title=Remove%3A+). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
 
 ## 💬 Connect With Me
 <div align="center">
