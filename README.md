@@ -20,11 +20,11 @@
 
 ### 📈 Contribution & Commit Trend
 <div align="center">
-  <!-- 年度贡献热力图（展示长期开发持续性） -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xiaoran67&theme=github-dark&hide_border=true&area=true&height=250" alt="Contribution Heatmap" width="100%">
+  <!-- 替换为稳定CDN的贡献热力图 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoran67&theme=github-dark&hide_border=true&area=true&height=250" alt="Contribution Heatmap" width="100%">
   
-  <!-- 提交连续天数（突出开发连贯性） -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=xiaoran67&theme=dark&fire=FF4500&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Commit Streak" width="100%">
+  <!-- 稳定CDN的提交连续天数 -->
+  <img src="https://github-readme-streak-stats.vercel.app/?username=xiaoran67&theme=dark&fire=FF4500&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Commit Streak" width="100%">
 </div>
 
 
@@ -39,7 +39,7 @@
 
 ### 📝 Recent Commits (Update Repo)
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [xiaoran67/update](https://github.com/xiaoran67/update)
+<!-- 由GitHub Action自动填充（仅展示update仓库提交） -->
 <!--END_SECTION:activity-->
 
 
