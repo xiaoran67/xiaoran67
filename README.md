@@ -46,7 +46,15 @@
 ### ⚠️ Disclaimer
 This project is for educational and communication purposes only. All interface data is sourced from the internet; we do not provide any playlists or other digital content, and please contact us for removal if there is any infringement.
 
-### 💬 Connect With Me
+### 💬 Connect Me
+
+<div align="center">
+<div class="contact-info">
+    <a href="https://t.me/xiaoran37" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
+    </a>
+</div>
+
 <div align="center">
   <a href="https://t.me/xiaoran37" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -60,32 +68,41 @@ This project is for educational and communication purposes only. All interface d
 </div>
 
 ### 📈 Project Metrics
-<div align="center">
-  <a href="https://github.com/xiaoran67/update/stargazers">
-    <img src="https://img.shields.io/github/stars/xiaoran67/update?style=social" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/xiaoran67/update/network/members">
-    <img src="https://img.shields.io/github/forks/xiaoran67/update?style=social" alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/xiaoran67/update/issues">
-    <img src="https://img.shields.io/github/issues/xiaoran67/update" alt="GitHub Issues">
-  </a>
-  <a href="https://github.com/xiaoran67/update/pulls">
-    <img src="https://img.shields.io/github/issues-pr/xiaoran67/update" alt="GitHub PRs">
-  </a>
-  <a href="https://github.com/xiaoran67/update/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/xiaoran67/update" alt="License">
-  </a>
-  <a href="https://github.com/xiaoran67/update/releases/latest">
-    <img src="https://img.shields.io/github/v/release/xiaoran67/update" alt="Latest Release">
-  </a>
-  <a href="https://github.com/xiaoran67/update/releases/latest">
-    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" alt="Total Downloads">
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-%3D%203.13-47c219" alt="Python Version">
-  </a>
-  <a href="https://hub.docker.com/repository/docker/xiaoran67/update">
-    <img src="https://img.shields.io/docker/pulls/xiaoran67/update" alt="Docker Pulls">
-  </a>
-</div>
+
+<br>
+
+[![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/update)](https://github.com/xiaoran67/update/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/update)](https://github.com/xiaoran67/update/pulls)
+[![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
+<a href="https://github.com/xiaoran67/update/releases/latest">
+    <img src="https://img.shields.io/github/v/release/xiaoran67/update" alt="Latest Release" />
+</a>
+<a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-%3D%203.13-47c219" alt="Python Version" />
+</a>
+<a href="https://github.com/xiaoran67/update/releases/latest">
+    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" alt="Total Downloads" />
+</a>
+
+<br>
+
+<a href="https://github.com/xiaoran67/update">
+    <img src="https://img.shields.io/github/stars/xiaoran67/update" alt="GitHub Stars" />
+</a>
+<a href="https://github.com/xiaoran67/update/fork">
+    <img src="https://img.shields.io/github/forks/xiaoran67/update" alt="GitHub Forks" />
+</a>
+<a href="https://github.com/xiaoran67/update/releases">
+    <img src="https://img.shields.io/github/v/release/xiaoran67/update" alt="Latest Release" />
+</a>
+<a href="https://github.com/xiaoran67/update/releases">
+    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" alt="Total Downloads" />
+</a>
+<a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-%3D%203.13-47c219" alt="Python Version" />
+</a>
+<a href="https://hub.docker.com/repository/docker/xiaoran67/update">
+    <img src="https://img.shields.io/docker/pulls/xiaoran67/update" alt="Docker Pulls" />
+</a>
