@@ -86,7 +86,7 @@
 
 
 
-## 📊 Star History
+## ⭐ Star History
 
 [![Star History](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/xiaoran67/update)
 <!-- $$$$$$$$$$$$$$$$$$ -->
