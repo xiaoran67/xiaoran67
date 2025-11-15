@@ -2,8 +2,8 @@
 <h2>💬 联系</h2>
 
 <div class="contact-info">
-    <a href="https://t.me/starkluistn98" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-@starkluistn98-blue?style=flat-square&logo=telegram" alt="Telegram" />
+    <a href="https://t.me/xiaoran37" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
     </a>
 </div>
 
