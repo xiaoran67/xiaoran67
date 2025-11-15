@@ -152,20 +152,20 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 👉所有以任何方式查看本仓库内容的人或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。</div>
 <br>
 <p align="center">
-  <a href="https://github.com/alantang1977/X/releases">
-    <img src="https://img.shields.io/github/v/release/alantang1977/X" />
+  <a href="https://github.com/xiaoran67/update/releases">
+    <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
   </a>
-  <a href="https://github.com/alantang1977/X/releases">
-    <img src="https://img.shields.io/github/downloads/alantang1977/X/total" />
+  <a href="https://github.com/xiaoran67/update/releases">
+    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" />
   </a>
-  <a href="https://github.com/alantang1977/X">
-    <img src="https://img.shields.io/github/stars/alantang1977/X" />
+  <a href="https://github.com/xiaoran67/update">
+    <img src="https://img.shields.io/github/stars/xiaoran67/update" />
   </a>
-  <a href="https://github.com/alantang1977/X/fork">
-    <img src="https://img.shields.io/github/forks/alantang1977/X" />
+  <a href="https://github.com/xiaoran67/update/fork">
+    <img src="https://img.shields.io/github/forks/xiaoran67/update" />
   </a>
 </p>
 # 🏂大神分享注册工具🏂
