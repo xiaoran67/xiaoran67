@@ -75,7 +75,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 <!-- 联系方式区域 -->
 
-# 🔗 Connect With Me
+## 🔗 Connect With Me
 <div align="center">
   <a href="https://t.me/xiaoran37" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -104,7 +104,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 <!-- 9. 最新提交记录 -->
 
-# 📝 Recent Commits (Update Repo)
+## 📝 Recent Commits (Update Repo)
 <!--START_SECTION:activity-->
 - 💪 Opened PR in [xiaoran67/update](https://github.com/xiaoran67/update/commits/main)
 <!--END_SECTION:activity-->
@@ -114,10 +114,10 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 
 
-# 📊 Star History
+## 📊 Star History
 [![Star History](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/xiaoran67/update)
 
-# ⭐ Star History
+## ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/update&type=Date)](https://star-history.com/#xiaoran67/update&Date)
 
 
@@ -130,14 +130,14 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 👉所有以任何方式查看本仓库内容的人或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。</div>
 <br>
 
-# 🏂大神分享注册工具🏂
+## 🏂大神分享注册工具🏂
 
-#  临时邮箱 https://etempmail.com/zh ； https://www.mffac.com/
+##  临时邮箱 https://etempmail.com/zh ； https://www.mffac.com/
 
-# 真实地址生成器 https://ip-geoaddress-generator.pages.dev/
+## 真实地址生成器 https://ip-geoaddress-generator.pages.dev/
 
-# 测试真实网速 https://www.itdog.cn/tcping/
-# 部分海外源
+## 测试真实网速 https://www.itdog.cn/tcping/
+## 部分海外源
     中国大陆频道：https://epg.pw/test_channels.m3u
     香港频道：https://epg.pw/test_channels_hong_kong.m3u
     澳门频道：https://epg.pw/test_channels_macau.m3u
@@ -268,8 +268,8 @@ Or free on the Internet:
 
 To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8.
 
-# 🍓Github在线加速镜像 
-# Github国内代理：https://ghproxy.link  https://xiake.pro/
+## 🍓Github在线加速镜像 
+## Github国内代理：https://ghproxy.link  https://xiake.pro/
                  
 
     https://ghfile.geekertao.top/https://github.com/
@@ -329,7 +329,7 @@ To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IP
     https://purge.jsdelivr.net/gh/alantang1977/X/main/X.json
 
 
-# 🍑电视直播搜索引擎
+## 🍑电视直播搜索引擎
 
     https://api.pearktrue.cn/api/tv/search.php?name=明珠台    (搜索电视直播源）
     https://www.foodieguide.com/iptvsearch/
@@ -337,7 +337,7 @@ To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IP
     https://streamtest.in
     https://iptv-org.github.io
 
-# emoji表情符号大全-emoji在线复制粘贴 
+## emoji表情符号大全-emoji在线复制粘贴 
 
 https://play.igo9go.cn/emojiall/#animals-nature
 
@@ -347,7 +347,7 @@ https://www.emojiall.com/zh-hans
 
 https://emoji6.com/emojiall/
 
-# 📌 Core Repository (update)
+## 📌 Core Repository (update)
 <div align="center">
   <a href="https://github.com/xiaoran67/update" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoran67&repo=update&theme=dark&hide_border=true&description_lines_count=3" alt="update Repository" width="80%">
