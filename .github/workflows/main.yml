@@ -1,7 +1,7 @@
-name: Update Recent Commits (update仓库专属)
+name: Update Recent Commits (Update Repo)
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小时更新
+    - cron: '0 * * * *'  # 每小时自动更新
   workflow_dispatch:  # 手动触发
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Update Recent Commits (仅update仓库)
+      - name: Update Recent Commits (Update Repo)
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
