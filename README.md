@@ -1,3 +1,9 @@
+# 🚀 About
+
+## 📺 [![update](https://github.com/xiaoran67/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/xiaoran67/iptv/actions/workflows/update.yml)
+
+Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
+
 
 [![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/network/members)
 [![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
@@ -6,23 +12,17 @@
 [![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
 </div>
 
-# 🚀 About
-
-  <a href="https://github.com/xiaoran67/update/releases/latest">
-    <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
-  </a>
-  <a href="https://www.python.org/">
-   </a>
-  <a href="https://github.com/xiaoran67/update/releases/latest">
-    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" />
 
 
-
-## 📺 [![update](https://github.com/xiaoran67/update/actions/workflows/main.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/main.yml)
-
-Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
-
-
+<div class="badges-container">
+    <img src="https://img.shields.io/github/stars/xiaoran67/update?style=flat-square" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/forks/xiaoran67/update?style=flat-square" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/issues/xiaoran67/update?style=flat-square" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/watchers/xiaoran67/update?style=flat-square" alt="GitHub watchers" />
+    <img src="https://img.shields.io/github/contributors/xiaoran67/update?style=flat-square" alt="GitHub contributors" />
+    <img src="https://img.shields.io/github/license/xiaoran67/update?style=flat-square" alt="GitHub license" />
+    <img src="https://views.whatilearened.today/views/github/xiaoran67/update.svg" alt="访问统计" />
+</div>
 
 <p align="center">
   <a href="https://github.com/xiaoran67/update/releases/latest">
@@ -45,13 +45,12 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
   <a href="https://github.com/xiaoran67/update/releases">
     <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
   </a>
-  <a href="https://github.com/xiaoran67/update/releases">
-    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" />
-  </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
   </a>
-
+  <a href="https://github.com/xiaoran67/update/releases">
+    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" />
+  </a>
   <a href="https://github.com/xiaoran67/update">
     <img src="https://img.shields.io/github/stars/xiaoran67/update" />
   </a>
@@ -59,6 +58,18 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
     <img src="https://img.shields.io/github/forks/xiaoran67/update" />
   </a>
 </p>
+
+
+
+<p>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xiaoran67/update">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/xiaoran67/update">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/xiaoran67/update">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/xiaoran67/update">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/xiaoran67/update">
+<img alt="GitHub" src="https://img.shields.io/github/license/xiaoran67/update">
+</p>
+
 
 
 <!-- 提交连续天数（Streak统计） -->
