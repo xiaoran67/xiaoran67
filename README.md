@@ -1,4 +1,4 @@
-### 🚀 About
+# 🚀 About
 
 # 📺 [![update](https://github.com/xiaoran67/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/xiaoran67/iptv/actions/workflows/update.yml)
 
