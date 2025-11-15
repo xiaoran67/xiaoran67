@@ -64,12 +64,12 @@
 </div>
 
 <p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Meroser/IPTV">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Meroser/IPTV">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/Meroser/IPTV">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Meroser/IPTV">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Meroser/IPTV">
-<img alt="GitHub" src="https://img.shields.io/github/license/Meroser/IPTV">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xiaoran67/update">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/xiaoran67/update">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/xiaoran67/update">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/xiaoran67/update">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/xiaoran67/update">
+<img alt="GitHub" src="https://img.shields.io/github/license/xiaoran67/update">
 </p>
 
 <h2>📊 Star History</h2>
