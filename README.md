@@ -78,6 +78,11 @@ No video files are stored in this repository. The repository simply contains use
 
 <div align="center">
 <div class="contact-info">
+    <a href="https://t.me/xiaoran37" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
+    </a>
+</div>
+
 
 
 [![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
