@@ -51,6 +51,6 @@
 <!-- 模块8：update仓库最新提交记录（正常显示） -->
 ### 📝 Recent Commits (Update Repo)
 <!--START_SECTION:activity-->
-1. 📌 Opened PR #5 in xiaoran67/update
-2. 📌 Opened PR #4 in xiaoran67/update
+1. 💪 Opened PR [#5](undefined) in [xiaoran67/update](https://github.com/xiaoran67/update)
+2. 💪 Opened PR [#4](undefined) in [xiaoran67/update](https://github.com/xiaoran67/update)
 <!--END_SECTION:activity-->
