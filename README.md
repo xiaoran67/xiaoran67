@@ -53,5 +53,5 @@
 
 <!-- 最新提交记录 -->
 ### 📝 Recent Commits
-<!-- 自动显示update仓库的最近5条提交记录，风格匹配你的深色主题 -->
-<img alt="Recent Commits of update Repo" align="left" width="800px" src="https://github-readme-commits.vercel.app/api?username=xiaoran67&repo=update&limit=5&theme=dark&hide_border=true">
+<!-- 自动加载你所有仓库的最近5条提交记录 -->
+<img alt="Recent Commits Across All Repos" align="left" width="800px" src="https://github-readme-commits.vercel.app/api?username=xiaoran67&limit=5&theme=dark&hide_border=true">
