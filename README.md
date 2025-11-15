@@ -98,7 +98,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
     台湾频道：https://epg.pw/test_channels_taiwan.m3u
     台湾频道：https://iptv-org.github.io/iptv/countries/tw.m3u
     新加坡频道：https://epg.pw/test_channels_singapore.m3u
-    马来西亚频道：https://epg.pw/test_channels_malaysia.m3u📄在线M3U转TXT：
+    马来西亚频道：https://epg.pw/test_channels_malaysia.m3u
 
 Demo🔗 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
