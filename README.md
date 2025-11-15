@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ![xiaoran67](https://count.getloli.com/get/@xiaoran67?theme=asoul)
 
 <!-- 替换成你的联系方式 -->
-Telegram[@你的Telegram账号]
-E-mail 你的邮箱地址
+Telegram[@xiaoran37]
+E-mail xiaoranmuze@gmail.com
