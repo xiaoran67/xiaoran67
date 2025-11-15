@@ -59,9 +59,9 @@
 
 ### 📊 访问量统计
 <div align="center">
-<!-- 替换为 shields.io + counterapi -->
-<img src="https://img.shields.io/counterapi/badge?url=https%3A%2F%2Fgithub.com%2Fxiaoran67&style=for-the-badge&label=主页访问量" width="30%">
-<img src="https://img.shields.io/counterapi/badge?url=https%3A%2F%2Fgithub.com%2Fxiaoran67%2Fxiaoran67%2Fblob%2Fmain%2FREADME.md&style=for-the-badge&label=README访问量" width="30%">
+  <img src="https://img.shields.io/counterapi/badge?url=https%3A%2F%2Fgithub.com%2Fxiaoran67&style=for-the-badge&label=主页访问量" width="30%">
+  <img src="https://img.shields.io/counterapi/badge?url=https%3A%2F%2Fgithub.com%2Fxiaoran67%2Fxiaoran67%2Fblob%2Fmain%2FREADME.md&style=for-the-badge&label=README访问量" width="30%">
+</div>
 
 
 <!-- 底部备注 -->
