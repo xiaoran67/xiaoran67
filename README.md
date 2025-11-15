@@ -12,11 +12,21 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 [![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
 </div>
 
+<p>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xiaoran67/update">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/xiaoran67/update">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/xiaoran67/update">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/xiaoran67/update">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/xiaoran67/update">
+<img alt="GitHub" src="https://img.shields.io/github/license/xiaoran67/update">
+</p>
+
+
 <div class="badges-container">
     <img src="https://img.shields.io/github/stars/xiaoran67/update?style=flat-square" alt="GitHub stars" />
     <img src="https://img.shields.io/github/forks/xiaoran67/update?style=flat-square" alt="GitHub forks" />
     <img src="https://img.shields.io/github/issues/xiaoran67/update?style=flat-square" alt="GitHub issues" />
-    <img src="https://img.shields.io/github/watchers/vbskycn/iptv?style=flat-square" alt="GitHub watchers" />
+    <img src="https://img.shields.io/github/watchers/xiaoran67/update?style=flat-square" alt="GitHub watchers" />
     <img src="https://img.shields.io/github/contributors/xiaoran67/update?style=flat-square" alt="GitHub contributors" />
     <img src="https://img.shields.io/github/license/xiaoran67/update?style=flat-square" alt="GitHub license" />
     <img src="https://views.whatilearened.today/views/github/xiaoran67/update.svg" alt="访问统计" />
@@ -27,8 +37,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
     <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
-  </a>
+   </a>
   <a href="https://github.com/xiaoran67/update/releases/latest">
     <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" />
   </a>
@@ -58,14 +67,6 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
   </a>
 </p>
 
-<p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xiaoran67/update">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/xiaoran67/update">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/xiaoran67/update">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/xiaoran67/update">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/xiaoran67/update">
-<img alt="GitHub" src="https://img.shields.io/github/license/xiaoran67/update">
-</p>
 
 <!-- 提交连续天数（Streak统计） -->
 <img alt="提交连续天数" align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoran67&theme=dark&fire=FF4500&hide_border=true">
