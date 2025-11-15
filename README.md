@@ -131,3 +131,12 @@
 ## 许可证
 
 [MIT](./LICENSE) License &copy; 2023-PRESENT [xiaoran67](https://github.com/xiaoran67)
+## Disclaimer
+
+**IPTVnator doesn't provide any playlists or other digital content.**
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
