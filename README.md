@@ -75,7 +75,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 <!-- 联系方式区域 -->
 
-### 🔗 Connect With Me
+# 🔗 Connect With Me
 <div align="center">
   <a href="https://t.me/xiaoran37" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -104,7 +104,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 <!-- 9. 最新提交记录 -->
 
-### 📝 Recent Commits (Update Repo)
+# 📝 Recent Commits (Update Repo)
 <!--START_SECTION:activity-->
 - 💪 Opened PR in [xiaoran67/update](https://github.com/xiaoran67/update/commits/main)
 <!--END_SECTION:activity-->
@@ -114,10 +114,10 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 
 
-## 📊 Star History
+# 📊 Star History
 [![Star History](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/xiaoran67/update)
 
-## ⭐ Star History
+# ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/update&type=Date)](https://star-history.com/#xiaoran67/update&Date)
 
 
@@ -132,11 +132,11 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 # 🏂大神分享注册工具🏂
 
-##  临时邮箱 https://etempmail.com/zh ； https://www.mffac.com/
+#  临时邮箱 https://etempmail.com/zh ； https://www.mffac.com/
 
-## 真实地址生成器 https://ip-geoaddress-generator.pages.dev/
+# 真实地址生成器 https://ip-geoaddress-generator.pages.dev/
 
-## 测试真实网速 https://www.itdog.cn/tcping/
+# 测试真实网速 https://www.itdog.cn/tcping/
 # 部分海外源
     中国大陆频道：https://epg.pw/test_channels.m3u
     香港频道：https://epg.pw/test_channels_hong_kong.m3u
@@ -337,7 +337,7 @@ To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IP
     https://streamtest.in
     https://iptv-org.github.io
 
-## emoji表情符号大全-emoji在线复制粘贴 
+# emoji表情符号大全-emoji在线复制粘贴 
 
 https://play.igo9go.cn/emojiall/#animals-nature
 
@@ -347,7 +347,7 @@ https://www.emojiall.com/zh-hans
 
 https://emoji6.com/emojiall/
 
-### 📌 Core Repository (update)
+# 📌 Core Repository (update)
 <div align="center">
   <a href="https://github.com/xiaoran67/update" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoran67&repo=update&theme=dark&hide_border=true&description_lines_count=3" alt="update Repository" width="80%">
