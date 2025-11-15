@@ -16,7 +16,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/update)](https://github.com/xiaoran67/update/pulls)
 [![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
 ![Docker Pulls](https://img.shields.io/docker/pulls/taksss/php-epg)
-![Image Size](https://img.shields.io/docker/image-size/taksss/php-epg/latest)
+
 </div>
 
 <!-- 2. 提交连续天数（Streak统计） -->
