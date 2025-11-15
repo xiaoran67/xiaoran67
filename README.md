@@ -14,10 +14,6 @@
 
 Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
 
-  
-  <a href="https://github.com/xiaoran67/update/releases/latest">
-    <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
-
 
 [![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/network/members)
 [![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
