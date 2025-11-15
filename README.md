@@ -54,3 +54,12 @@
   </a>
   <p>📢 直播源自动更新仓库，含定时同步、格式校验、异常修复功能，持续维护中</p>
 </div>
+
+<p>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Meroser/IPTV">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Meroser/IPTV">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/Meroser/IPTV">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Meroser/IPTV">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Meroser/IPTV">
+<img alt="GitHub" src="https://img.shields.io/github/license/Meroser/IPTV">
+</p>
