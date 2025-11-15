@@ -160,27 +160,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
-## Contribution
 
-Please make sure to read the [Contributing Guide](CONTRIBUTING.md) before sending an issue or making a pull request.
-
-And thank you to everyone who has already contributed!
-
-### Backers
-
-<a href="https://opencollective.com/iptv-org"><img src="https://opencollective.com/## Contribution
-
-Please make sure to read the [Contributing Guide](CONTRIBUTING.md) before sending an issue or making a pull request.
-
-And thank you to everyone who has already contributed!
-
-### Backers
-
-<a href="https://opencollective.com/iptv-org"><img src="https://opencollective.com/xiaoran67/update.svg?width=890" /></a>
-
-### Contributors
-
-<a href="https://github.com/xiaoran67/update/graphs/contributors"><img src="https://opencollective.com/xiaoran67/update.svg?width=890" /></a>
 
 ## Legal
 
