@@ -1,20 +1,18 @@
 ### 🚀 About
-
 <div align="center">
 
 <a href="https://trendshift.io/repositories/12969" target="_blank">
   <img src="https://trendshift.io/api/badge/repositories/12969" alt="IPTV Tool | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
 </a>
 
-[![GitHub Stars](https://img.shields.io/github/stars/taksssss/iptv-tool?style=social)](https://github.com/taksssss/iptv-tool/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/taksssss/iptv-tool?style=social)](https://github.com/taksssss/iptv-tool/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/taksssss/iptv-tool)](https://github.com/taksssss/iptv-tool/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/taksssss/iptv-tool)](https://github.com/taksssss/iptv-tool/pulls)
-[![License](https://img.shields.io/github/license/taksssss/iptv-tool)](https://github.com/taksssss/iptv-tool/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/update)](https://github.com/xiaoran67/update/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/update)](https://github.com/xiaoran67/update/pulls)
+[![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
 ![Docker Pulls](https://img.shields.io/docker/pulls/taksss/php-epg)
 ![Image Size](https://img.shields.io/docker/image-size/taksss/php-epg/latest)
 </div>
-
 
 <!-- 2. 提交连续天数（Streak统计） -->
 <img alt="提交连续天数" align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoran67&theme=dark&fire=FF4500&hide_border=true">
