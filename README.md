@@ -1,56 +1,55 @@
-### Hi there 👋
+# 👋 Hi, I'm [你的昵称]
 
-<!-- 个人信息（全英文展示） -->
-- 🔭 I’m currently working on Live source auto-update project development and maintenance
-- 🌱 I’m currently learning GitHub Actions automated deployment & Python crawler optimization
-- 👯 I’m looking to collaborate on Open-source live source projects & crawler tool development
-- 🤔 I’m looking for help with GitHub Actions permission configuration & live source stability optimization
-- 💬 Ask me about Python basic development, simple crawler implementation & GitHub repository management
-- 📫 How to reach me: Telegram[@xiaoran37](https://t.me/xiaoran37) / E-mail xiaoranmuze@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love collecting various open-source tools; good at quickly building lightweight automated scripts
+### 🚀 About Me
+- 🔭 I’m currently working on **[你的项目描述，如：Live source auto-update system]**
+- 🌱 I’m currently learning **[你的学习方向，如：GitHub Actions / Python Crawler]**
+- 👯 I’m looking to collaborate on **[合作方向，如：Open-source live source projects]**
+- 💬 Ask me about **[擅长领域，如：Python / GitHub Workflow]**
+- 📫 How to reach me: **[联系方式，如：Telegram @xxx / Email xxx@xxx.com]**
 
 
-<!-- 模块1：GitHub综合数据总览 -->
-<img alt="GitHub Comprehensive Data" align="left" width="800px" src="https://metrics.lecoq.io/xiaoran67?template=classic&base=header,activity,community,repo,metadata&activity=commits,prs,issues,code_reviews&community=followers,following,stars,sponsors&repo=stars,created,updated,topics,license&config.timezone=Asia/Shanghai">
+### 📊 GitHub Stats
+<div align="center">
+  <!-- 个人统计卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%">
+  
+  <!-- 语言统计卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub用户名]&layout=donut&theme=dark&hide_border=true" alt="Top Languages" width="48%">
+</div>
 
 
-<!-- 模块2：提交连续天数 + 30天提交趋势 -->
-<img alt="GitHub Commit Streak" align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoran67&theme=dark&fire=FF4500&hide_border=true">
-<img alt="30-Day Commit Trend" align="left" width="400px" src="https://github-readme-activity-graph.cyclic.app/graph?username=xiaoran67&theme=github-dark&hide_border=true&area=true&height=200">
+### 📈 Contribution Heatmap
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=[你的GitHub用户名]&theme=github-dark&hide_border=true&area=true" alt="Contribution Heatmap" width="100%">
+</div>
 
 
-<!-- 模块3：常用编程语言 + update仓库核心数据 -->
-<img alt="Top Programming Languages" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran67&layout=donut&theme=dark&hide_border=true&include_all_commits=true">
-<img alt="Update Repo Stats" align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=xiaoran67&show_icons=true&count_private=true&theme=dark&hide_border=true&custom_title=Update Repo Stats&repo=update">
+### 📌 Top Repositories
+<div align="center">
+  <!-- 仓库卡片（可重复添加） -->
+  <a href="https://github.com/[你的GitHub用户名]/[仓库名1]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[你的GitHub用户名]&repo=[仓库名1]&theme=dark&hide_border=true" alt="[仓库名1]" width="48%">
+  </a>
+  <a href="https://github.com/[你的GitHub用户名]/[仓库名2]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[你的GitHub用户名]&repo=[仓库名2]&theme=dark&hide_border=true" alt="[仓库名2]" width="48%">
+  </a>
+</div>
 
 
-<!-- 模块4：Issue与PR统计 -->
-<img alt="Issue & PR Statistics" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/issues?username=xiaoran67&theme=dark&hide_border=true&count_private=true">
-
-
-<!-- 模块5：年度贡献热力图 -->
-<img alt="Annual Contribution Heatmap" align="left" width="800px" src="https://github-readme-activity-graph.cyclic.app/graph?username=xiaoran67&theme=github-dark&hide_border=true&area=true&height=300">
-
-
-<!-- 模块6：访问量统计（替换为稳定工具，正常显示） -->
-<img alt="README Views" align="left" width="400px" src="https://visitor-badge.glitch.me/badge?page_id=xiaoran67.xiaoran67&count_bg=%2379C83D&title_bg=%23555555&title=README+Views&style=flat">
-<img alt="Profile Views" align="left" width="400px" src="https://visitor-badge.glitch.me/badge?page_id=xiaoran67&count_bg=%2379C83D&title_bg=%23555555&title=Profile+Views&style=flat">
-
-
-<!-- 模块7：开源贡献等级 -->
-<img alt="Open Source Contribution Trophies" align="left" width="800px" src="https://github-profile-trophy.vercel.app/?username=xiaoran67&theme=darkhub&no-frame=true&no-bg=true&margin-w=4">
-
-
-<!-- 联系方式 -->
-### 📞 Contact Me
-- Telegram: [@xiaoran37](https://t.me/xiaoran37)
-- E-mail: xiaoranmuze@gmail.com
-
-
-<!-- 模块8：update仓库最新提交记录（正常显示） -->
-### 📝 Recent Commits (Update Repo)
+### 📝 Recent Commits
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [xiaoran67/update](https://github.com/xiaoran67/update)
-2. 💪 Opened PR [#4](undefined) in [xiaoran67/update](https://github.com/xiaoran67/update)
+<!-- 由GitHub Action自动填充 -->
 <!--END_SECTION:activity-->
+
+
+### 🔗 Connect With Me
+<div align="center">
+  <a href="[你的Telegram链接]"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="[你的Email链接]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+
+### 📊 Visitor Count
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=[你的GitHub用户名].[你的GitHub用户名]&theme=dark" alt="Visitor Count">
+</div>
