@@ -58,9 +58,6 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
   </a>
 </p>
 
-<!-- $$$$$$$$$$$$$$$$$$ -->
-
-
 <p>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xiaoran67/update">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/xiaoran67/update">
@@ -70,33 +67,33 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 <img alt="GitHub" src="https://img.shields.io/github/license/xiaoran67/update">
 </p>
 
-<!-- 2. 提交连续天数（Streak统计） -->
+<!-- 提交连续天数（Streak统计） -->
 <img alt="提交连续天数" align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoran67&theme=dark&fire=FF4500&hide_border=true">
 
-<!-- 3. 核心代码统计（提交/星标等基础数据） -->
+<!-- 核心代码统计（提交/星标等基础数据） -->
 <img alt="代码统计（提交/星标）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=xiaoran67&show_icons=true&count_private=true&theme=dark&hide_border=true">
 <br clear="both">
 
-<!-- 4. 常用编程语言占比（紧凑列表） -->
+<!-- 常用编程语言占比（紧凑列表） -->
 <img alt="编程语言占比（紧凑）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran67&layout=compact&theme=dark&hide_border=true">
 <br clear="both">
 
-<!-- 5. 编程语言占比（环形图） -->
+<!-- 编程语言占比（环形图） -->
 <img alt="编程语言占比（环形）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran67&layout=donut&theme=dark&hide_border=true&include_all_commits=true">
 
-<!-- 6. 年度贡献热力图 -->
+<!-- 年度贡献热力图 -->
 <img alt="年度贡献热力图" align="left" width="800px" src="https://github-readme-stats.vercel.app/api?username=xiaoran67&show_icons=false&count_private=true&theme=dark&hide_border=true&custom_title=年度贡献热力图&card_width=800&include_all_commits=true">
 <br clear="both">
 
-<!-- 7. 开源贡献等级徽章 -->
+<!-- 开源贡献等级徽章 -->
 <img alt="开源贡献等级" align="left" width="400px" src="https://github-profile-trophy.vercel.app/?username=xiaoran67&theme=darkhub&no-frame=true&no-bg=true&margin-w=4">
 <br clear="both">
 
-<!-- 1. 主页总访问量-->
+<!-- 主页总访问量-->
 ![主页总访问量](https://count.getloli.com/get/@xiaoran67?theme=asoul)
 <br clear="both">
 
-<!-- 8. 联系方式区域 -->
+<!-- 联系方式区域 -->
 
 ### 🔗 Connect With Me
 <div align="center">
