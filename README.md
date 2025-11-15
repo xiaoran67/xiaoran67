@@ -130,14 +130,14 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 👉所有以任何方式查看本仓库内容的人或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。</div>
 <br>
 
-## 🏂大神分享注册工具🏂
+### 🏂大神分享注册工具🏂
 
-##  临时邮箱 https://etempmail.com/zh ； https://www.mffac.com/
+###  临时邮箱 https://etempmail.com/zh ； https://www.mffac.com/
 
-## 真实地址生成器 https://ip-geoaddress-generator.pages.dev/
+### 真实地址生成器 https://ip-geoaddress-generator.pages.dev/
 
-## 测试真实网速 https://www.itdog.cn/tcping/
-## 部分海外源
+### 测试真实网速 https://www.itdog.cn/tcping/
+### 部分海外源
     中国大陆频道：https://epg.pw/test_channels.m3u
     香港频道：https://epg.pw/test_channels_hong_kong.m3u
     澳门频道：https://epg.pw/test_channels_macau.m3u
