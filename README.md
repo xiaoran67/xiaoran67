@@ -1,32 +1,32 @@
-## 📅 Streak Statistics
+### 📅 Streak Statistics
 <!-- 提交连续天数（Streak统计） -->
 <img alt="提交连续天数" align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoran67&theme=dark&fire=FF4500&hide_border=true">
 
-## 📊 Core Code Stats
+### 📊 Core Code Stats
 <!-- 核心代码统计（提交/星标等基础数据） -->
 <img alt="代码统计（提交/星标）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=xiaoran67&show_icons=true&count_private=true&theme=dark&hide_border=true">
 <br clear="both">
 
-## 🗂️ Programming Languages Share (Compact)
+### 🗂️ Programming Languages Share (Compact)
 <!-- 常用编程语言占比（紧凑列表） -->
 <img alt="编程语言占比（紧凑）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran67&layout=compact&theme=dark&hide_border=true">
 <br clear="both">
 
-## ​🍩 Programming Languages Share (Donut Chart)
+### ​🍩 Programming Languages Share (Donut Chart)
 <!-- 编程语言占比（环形图） -->
 <img alt="编程语言占比（环形）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran67&layout=donut&theme=dark&hide_border=true&include_all_commits=true">
 
-## 🔥 Annual Contribution Heatmap
+### 🔥 Annual Contribution Heatmap
 <!-- 年度贡献热力图 -->
 <img alt="年度贡献热力图" align="left" width="800px" src="https://github-readme-stats.vercel.app/api?username=xiaoran67&show_icons=false&count_private=true&theme=dark&hide_border=true&custom_title=年度贡献热力图&card_width=800&include_all_commits=true">
 <br clear="both">
 
-## 🏆 Open Source Contribution Level Badge
+### 🏆 Open Source Contribution Level Badge
 <!-- 开源贡献等级徽章 -->
 <img alt="开源贡献等级" align="left" width="400px" src="https://github-profile-trophy.vercel.app/?username=xiaoran67&theme=darkhub&no-frame=true&no-bg=true&margin-w=4">
 <br clear="both">
 
-## 👁️ Homepage Total Views
+### 👁️ Homepage Total Views
 <!--主页总访问量-->
 ![主页总访问量](https://count.getloli.com/get/@xiaoran67?theme=asoul)
 <br clear="both">
@@ -35,23 +35,23 @@
 
 
 
-## 📊 Star History
+### 📊 Star History
 [![Star History](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/xiaoran67/update)
 
-## ⭐ Star History
+### ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/update&type=Date)](https://star-history.com/#xiaoran67/update&Date)
 
 
-## 📝 License
+### 📝 License
 
 [MIT](./LICENSE) License &copy; 2023-PRESENT [xiaoran67](https://github.com/xiaoran67)
 
-## ⚠️ Disclaimer
+### ⚠️ Disclaimer
 本项目仅供学习交流用途，接口数据均来源于网络，如有侵权，请联系删除
 **xiaoran67 doesn't provide any playlists or other digital content.**
 
 
-## 📜 Legal
+### 📜 Legal
 
 No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a [pull request](https://github.com/xiaoran67/update/pulls) or opening an [issue](https://github.com/xiaoran67/update/issues/new?assignees=freearhey&labels=removal+request&template=--removal-request.yml&title=Remove%3A+). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
 
