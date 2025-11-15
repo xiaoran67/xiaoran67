@@ -78,6 +78,7 @@ This project is for educational and communication purposes only. All interface d
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/update)](https://github.com/xiaoran67/update/pulls)
 [![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-%3D%203.13-47c219)](https://www.python.org/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/xiaoran67/update)](https://hub.docker.com/repository/docker/xiaoran67/update)
 
 <br>
 
