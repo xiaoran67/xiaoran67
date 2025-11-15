@@ -41,6 +41,9 @@
   </a>
 </div>
 
+<!-- $$$$$$$$$$$$$$$$$$ -->
+
+
 <h2>💬 Connect</h2>
 
 <div class="contact-info">
@@ -49,12 +52,18 @@
     </a>
 </div>
 
+<!-- $$$$$$$$$$$$$$$$$$ -->
+
+
 <!-- 9. 最新提交记录 -->
 
 ### 📝 Recent Commits (Update Repo)
 <!--START_SECTION:activity-->
 - 💪 Opened PR in [xiaoran67/update](https://github.com/xiaoran67/update/commits/main)
 <!--END_SECTION:activity-->
+
+<!-- $$$$$$$$$$$$$$$$$$ -->
+
 ### 📌 Core Repository (update)
 <div align="center">
   <a href="https://github.com/xiaoran67/update" target="_blank">
@@ -62,6 +71,9 @@
   </a>
   <p>📢 直播源自动更新仓库，含定时同步、格式校验、异常修复功能，持续维护中</p>
 </div>
+
+<!-- $$$$$$$$$$$$$$$$$$ -->
+
 
 <p>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xiaoran67/update">
@@ -71,6 +83,21 @@
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/xiaoran67/update">
 <img alt="GitHub" src="https://img.shields.io/github/license/xiaoran67/update">
 </p>
+
+<!-- $$$$$$$$$$$$$$$$$$ -->
+
+
+<div class="badges-container">
+    <img src="https://img.shields.io/github/stars/xiaoran67/update?style=flat-square" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/forks/xiaoran67/update?style=flat-square" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/issues/xiaoran67/update?style=flat-square" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/watchers/vbskycn/iptv?style=flat-square" alt="GitHub watchers" />
+    <img src="https://img.shields.io/github/contributors/xiaoran67/update?style=flat-square" alt="GitHub contributors" />
+    <img src="https://img.shields.io/github/license/xiaoran67/update?style=flat-square" alt="GitHub license" />
+    <img src="https://views.whatilearened.today/views/github/xiaoran67/update.svg" alt="访问统计" />
+</div>
+
+<!-- $$$$$$$$$$$$$$$$$$ -->
 
 <h2>📊 Star History</h2>
 
