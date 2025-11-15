@@ -5,8 +5,7 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/update)](https://github.com/xiaoran67/update/pulls)
 [![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
 
-<p align="center">
-    <a href="https://github.com/xiaoran67/update/releases/latest">
+  <a href="https://github.com/xiaoran67/update/releases/latest">
     <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
   </a>
   <a href="https://www.python.org/">
