@@ -7,12 +7,12 @@
 <img alt="代码统计（提交/星标）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=xiaoran67&show_icons=true&count_private=true&theme=dark&hide_border=true">
 <br clear="both">
 
-### 🗂️ Programming Languages Share (Compact)
+### 🗂️ Most Used Languages (Compact)
 <!-- 常用编程语言占比（紧凑列表） -->
 <img alt="编程语言占比（紧凑）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran67&layout=compact&theme=dark&hide_border=true">
 <br clear="both">
 
-### ​🍩 Programming Languages Share (Donut Chart)
+### ​🍩 Most Used Languages (Chart)
 <!-- 编程语言占比（环形图） -->
 <img alt="编程语言占比（环形）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran67&layout=donut&theme=dark&hide_border=true&include_all_commits=true">
 
