@@ -41,7 +41,7 @@
   </a>
 </div>
 
-<h2>💬 联系</h2>
+<h2>💬 Connect</h2>
 
 <div class="contact-info">
     <a href="https://t.me/xiaoran37" target="_blank">
