@@ -34,6 +34,9 @@
 <!-- 新增模块8：开发工具使用统计（需关联WakaTime账号，展示常用开发工具/编辑器占比） -->
 <img alt="Development Tools Stats" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=xiaoran67&theme=dark&hide_border=true" >
 
+<!-- 模块3：常用编程语言占比（按代码行数统计） -->
+<img alt="常用编程语言" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran67&layout=compact&theme=dark&hide_border=true">
+
 <!-- 新增模块9：README访问量（独立统计README文件的访问次数，区分主页总访问量） -->
 <img alt="README Views" align="left" width="400px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxiaoran67%2Fxiaoran67&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=README+Views&edge_flat=false">
 
