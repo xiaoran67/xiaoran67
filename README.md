@@ -9,6 +9,8 @@
 
 # 🚀 About
 
+<p align="center">
+  
   <a href="https://github.com/xiaoran67/update/releases/latest">
     <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
   </a>
