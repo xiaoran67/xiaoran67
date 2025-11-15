@@ -1,22 +1,26 @@
 name: Update Recent Commits (Update Repo)
 on:
-  schedule:
-    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
   update-activity:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 关键：赋予写入权限
     steps:
       - uses: actions/checkout@v4
       
-      - name: Update Recent Commits (Update Repo)
+      # 新增：配置Git提交者信息
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+      
+      - name: Update Recent Commits
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          GH_USERNAME: "xiaoran67"  # 你的GitHub用户名
-          MAX_LINES: 5  # 对应原COMMIT_LIMIT（显示5条提交）
-          TARGET_FILE: "README.md"  # 对应原OUTPUT_FILE（输出到README）
-          COMMIT_NAME: "GitHub Action Bot"  # 提交者名称
-          COMMIT_EMAIL: "action@github.com"  # 提交者邮箱
+          GH_USERNAME: "xiaoran67"
+          MAX_LINES: 5
+          TARGET_FILE: "README.md"
