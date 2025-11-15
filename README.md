@@ -97,6 +97,14 @@
     <img src="https://views.whatilearened.today/views/github/xiaoran67/update.svg" alt="访问统计" />
 </div>
 
+
+<h2>📊 Star History</h2>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/update&type=Date)](https://star-history.com/#xiaoran67/update&Date)
+## Star History
+
+[![Star统计](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/Guovin/iptv-api)
+
 <!-- $$$$$$$$$$$$$$$$$$ -->
 <p align="center">
   <a href="https://github.com/xiaoran67/update/releases/latest">
@@ -117,12 +125,6 @@
 </p>
 <!-- $$$$$$$$$$$$$$$$$$ -->
 
-<h2>📊 Star History</h2>
-
-[![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/update&type=Date)](https://star-history.com/#xiaoran67/update&Date)
-## Star History
-
-[![Star统计](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/Guovin/iptv-api)
 
 ## 免责声明
 
