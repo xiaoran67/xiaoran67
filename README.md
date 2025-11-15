@@ -25,20 +25,6 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 
 <p align="center">
-  <a href="https://github.com/xiaoran67/update/releases/latest">
-    <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
-  </a>
-  <a href="https://www.python.org/">
-   </a>
-  <a href="https://github.com/xiaoran67/update/releases/latest">
-    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" />
-  </a>
-  <a href="https://github.com/xiaoran67/update/fork">
-    <img src="https://img.shields.io/github/forks/xiaoran67/update" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/xiaoran67/update/releases">
     <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
   </a>
