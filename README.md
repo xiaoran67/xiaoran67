@@ -49,41 +49,45 @@ This project is for educational and communication purposes only. All interface d
 ### 💬 Connect Me
 
 <div align="center">
-<div class="contact-info">
-    <a href="https://t.me/xiaoran37" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
-    </a>
+    <div class="contact-info">
+        <a href="https://t.me/xiaoran37" target="_blank">
+            <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
+        </a>
+    </div>
 </div>
 
 <div align="center">
-  <a href="https://t.me/xiaoran37" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:xiaoranmuze@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/xiaoran67" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+    <a href="https://t.me/xiaoran37" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    <a href="mailto:xiaoranmuze@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://github.com/xiaoran67" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+</div>
 
 ### 📈 Project Metrics
 <div align="center">
-<div class="contact-info">
-<br>
-[![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/update)](https://github.com/xiaoran67/update/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/update)](https://github.com/xiaoran67/update/pulls)
-[![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/xiaoran67/update)](https://github.com/xiaoran67/update/releases/latest)
-[![Python Version](https://img.shields.io/badge/python-%3D%203.13-47c219)](https://www.python.org/)
-[![Total Downloads](https://img.shields.io/github/downloads/xiaoran67/update/total)](https://github.com/xiaoran67/update/releases/latest)
+    <div class="contact-info">
+        <br>
+        [![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
+        [![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/network/members)
+        [![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/update)](https://github.com/xiaoran67/update/issues)
+        [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/update)](https://github.com/xiaoran67/update/pulls)
+        [![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
+        [![Latest Release](https://img.shields.io/github/v/release/xiaoran67/update)](https://github.com/xiaoran67/update/releases/latest)
+        [![Python Version](https://img.shields.io/badge/python-%3D%203.13-47c219)](https://www.python.org/)
+        [![Total Downloads](https://img.shields.io/github/downloads/xiaoran67/update/total)](https://github.com/xiaoran67/update/releases/latest)
 
-<br>
+        <br>
 
-[![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update)](https://github.com/xiaoran67/update)
-[![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update)](https://github.com/xiaoran67/update/fork)
-[![Latest Release](https://img.shields.io/github/v/release/xiaoran67/update)](https://github.com/xiaoran67/update/releases)
-[![Total Downloads](https://img.shields.io/github/downloads/xiaoran67/update/total)](https://github.com/xiaoran67/update/releases)
-[![Python Version](https://img.shields.io/badge/python-%3D%203.13-47c219)](https://www.python.org/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/xiaoran67/update)](https://hub.docker.com/repository/docker/xiaoran67/update)
+        [![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update)](https://github.com/xiaoran67/update)
+        [![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update)](https://github.com/xiaoran67/update/fork)
+        [![Latest Release](https://img.shields.io/github/v/release/xiaoran67/update)](https://github.com/xiaoran67/update/releases)
+        [![Total Downloads](https://img.shields.io/github/downloads/xiaoran67/update/total)](https://github.com/xiaoran67/update/releases)
+        [![Python Version](https://img.shields.io/badge/python-%3D%203.13-47c219)](https://www.python.org/)
+        [![Docker Pulls](https://img.shields.io/docker/pulls/xiaoran67/update)](https://hub.docker.com/repository/docker/xiaoran67/update)
+    </div>
+</div>
