@@ -1,51 +1,104 @@
 # 🚀 About
 
-# 📺 [![update](https://github.com/xiaoran67/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/xiaoran67/iptv/actions/workflows/update.yml)
+## 📺 [![update](https://github.com/xiaoran67/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/xiaoran67/iptv/actions/workflows/update.yml)
 
 Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
 
-<div align="center">
 
-<a href="https://trendshift.io/repositories/12969" target="_blank">
-  <img src="https://trendshift.io/api/badge/repositories/12969" alt="IPTV Tool | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
-</a>
-
-[![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/update)](https://github.com/xiaoran67/update/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/update)](https://github.com/xiaoran67/update/pulls)
 [![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
-![Docker Pulls](https://img.shields.io/docker/pulls/taksss/php-epg)
-![Image Size](https://img.shields.io/docker/image-size/taksss/php-epg/latest)
 </div>
 
-<!-- 2. 提交连续天数（Streak统计） -->
+
+
+<div class="badges-container">
+    <img src="https://img.shields.io/github/stars/xiaoran67/update?style=flat-square" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/forks/xiaoran67/update?style=flat-square" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/issues/xiaoran67/update?style=flat-square" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/watchers/xiaoran67/update?style=flat-square" alt="GitHub watchers" />
+    <img src="https://img.shields.io/github/contributors/xiaoran67/update?style=flat-square" alt="GitHub contributors" />
+    <img src="https://img.shields.io/github/license/xiaoran67/update?style=flat-square" alt="GitHub license" />
+    <img src="https://views.whatilearened.today/views/github/xiaoran67/update.svg" alt="访问统计" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/xiaoran67/update/releases/latest">
+    <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
+  </a>
+  <a href="https://www.python.org/">
+   </a>
+  <a href="https://github.com/xiaoran67/update/releases/latest">
+    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" />
+  </a>
+  <a href="https://hub.docker.com/repository/docker/xiaoran67/update">
+    <img src="https://img.shields.io/docker/pulls/xiaoran67/update" />
+  </a>
+  <a href="https://github.com/xiaoran67/update/fork">
+    <img src="https://img.shields.io/github/forks/xiaoran67/update" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/xiaoran67/update/releases">
+    <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
+  </a>
+  <a href="https://github.com/xiaoran67/update/releases">
+    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" />
+  </a>
+  <a href="https://github.com/xiaoran67/update">
+    <img src="https://img.shields.io/github/stars/xiaoran67/update" />
+  </a>
+  <a href="https://github.com/xiaoran67/update/fork">
+    <img src="https://img.shields.io/github/forks/xiaoran67/update" />
+  </a>
+</p>
+
+
+
+<p>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xiaoran67/update">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/xiaoran67/update">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/xiaoran67/update">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/xiaoran67/update">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/xiaoran67/update">
+<img alt="GitHub" src="https://img.shields.io/github/license/xiaoran67/update">
+</p>
+
+
+
+<!-- 提交连续天数（Streak统计） -->
 <img alt="提交连续天数" align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoran67&theme=dark&fire=FF4500&hide_border=true">
 
-<!-- 3. 核心代码统计（提交/星标等基础数据） -->
+<!-- 核心代码统计（提交/星标等基础数据） -->
 <img alt="代码统计（提交/星标）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=xiaoran67&show_icons=true&count_private=true&theme=dark&hide_border=true">
 <br clear="both">
 
-<!-- 4. 常用编程语言占比（紧凑列表） -->
+<!-- 常用编程语言占比（紧凑列表） -->
 <img alt="编程语言占比（紧凑）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran67&layout=compact&theme=dark&hide_border=true">
 <br clear="both">
 
-<!-- 5. 编程语言占比（环形图） -->
+<!-- 编程语言占比（环形图） -->
 <img alt="编程语言占比（环形）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran67&layout=donut&theme=dark&hide_border=true&include_all_commits=true">
 
-<!-- 6. 年度贡献热力图 -->
+<!-- 年度贡献热力图 -->
 <img alt="年度贡献热力图" align="left" width="800px" src="https://github-readme-stats.vercel.app/api?username=xiaoran67&show_icons=false&count_private=true&theme=dark&hide_border=true&custom_title=年度贡献热力图&card_width=800&include_all_commits=true">
 <br clear="both">
 
-<!-- 7. 开源贡献等级徽章 -->
+<!-- 开源贡献等级徽章 -->
 <img alt="开源贡献等级" align="left" width="400px" src="https://github-profile-trophy.vercel.app/?username=xiaoran67&theme=darkhub&no-frame=true&no-bg=true&margin-w=4">
 <br clear="both">
 
-<!-- 1. 主页总访问量-->
+<!-- 主页总访问量-->
 ![主页总访问量](https://count.getloli.com/get/@xiaoran67?theme=asoul)
 <br clear="both">
 
-<!-- 8. 联系方式区域 -->
+<!-- 联系方式区域 -->
 
 ### 🔗 Connect With Me
 <div align="center">
@@ -83,66 +136,16 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 <!-- $$$$$$$$$$$$$$$$$$ -->
 
-### 📌 Core Repository (update)
-<div align="center">
-  <a href="https://github.com/xiaoran67/update" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoran67&repo=update&theme=dark&hide_border=true&description_lines_count=3" alt="update Repository" width="80%">
-  </a>
-  <p>📢 直播源自动更新仓库，含定时同步、格式校验、异常修复功能，持续维护中</p>
-</div>
-
-<!-- $$$$$$$$$$$$$$$$$$ -->
-
-
-<p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xiaoran67/update">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/xiaoran67/update">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/xiaoran67/update">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/xiaoran67/update">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/xiaoran67/update">
-<img alt="GitHub" src="https://img.shields.io/github/license/xiaoran67/update">
-</p>
 
 
 
 ## 📊 Star History
-
 [![Star History](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/xiaoran67/update)
-<!-- $$$$$$$$$$$$$$$$$$ -->
 
-
-<div class="badges-container">
-    <img src="https://img.shields.io/github/stars/xiaoran67/update?style=flat-square" alt="GitHub stars" />
-    <img src="https://img.shields.io/github/forks/xiaoran67/update?style=flat-square" alt="GitHub forks" />
-    <img src="https://img.shields.io/github/issues/xiaoran67/update?style=flat-square" alt="GitHub issues" />
-    <img src="https://img.shields.io/github/watchers/vbskycn/iptv?style=flat-square" alt="GitHub watchers" />
-    <img src="https://img.shields.io/github/contributors/xiaoran67/update?style=flat-square" alt="GitHub contributors" />
-    <img src="https://img.shields.io/github/license/xiaoran67/update?style=flat-square" alt="GitHub license" />
-    <img src="https://views.whatilearened.today/views/github/xiaoran67/update.svg" alt="访问统计" />
-</div>
-
-<h2>⭐ Star History</h2>
-
+## ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/update&type=Date)](https://star-history.com/#xiaoran67/update&Date)
 
-<!-- $$$$$$$$$$$$$$$$$$ -->
-<p align="center">
-  <a href="https://github.com/xiaoran67/update/releases/latest">
-    <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
-  </a>
-  <a href="https://github.com/xiaoran67/update/releases/latest">
-    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" />
-  </a>
-  <a href="https://hub.docker.com/repository/docker/xiaoran67/update">
-    <img src="https://img.shields.io/docker/pulls/xiaoran67/update" />
-  </a>
-  <a href="https://github.com/xiaoran67/update/fork">
-    <img src="https://img.shields.io/github/forks/xiaoran67/update" />
-  </a>
-</p>
+
 <!-- $$$$$$$$$$$$$$$$$$ -->
 
   <h1 align="center">影视点播直播源</h1>
@@ -151,23 +154,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 <div align="center">💋所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 👉所有以任何方式查看本仓库内容的人或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。</div>
 <br>
-<p align="center">
-  <a href="https://github.com/xiaoran67/update/releases">
-    <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
-  </a>
-  <a href="https://github.com/xiaoran67/update/releases">
-    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" />
-  </a>
-  <a href="https://github.com/xiaoran67/update">
-    <img src="https://img.shields.io/github/stars/xiaoran67/update" />
-  </a>
-  <a href="https://github.com/xiaoran67/update/fork">
-    <img src="https://img.shields.io/github/forks/xiaoran67/update" />
-  </a>
-</p>
+
 # 🏂大神分享注册工具🏂
 
 ##  临时邮箱 https://etempmail.com/zh ； https://www.mffac.com/
@@ -384,5 +371,13 @@ https://funletu.com/emoji/
 https://www.emojiall.com/zh-hans
 
 https://emoji6.com/emojiall/
+
+### 📌 Core Repository (update)
+<div align="center">
+  <a href="https://github.com/xiaoran67/update" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoran67&repo=update&theme=dark&hide_border=true&description_lines_count=3" alt="update Repository" width="80%">
+  </a>
+  <p>📢 直播源自动更新仓库，含定时同步、格式校验、异常修复功能，持续维护中</p>
+</div>
 
 [回到顶部](#readme)
