@@ -1,0 +1,19 @@
+name: Update Recent Commits
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时自动更新
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  update-commits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update Recent Commits
+        uses: athul/recent-activity@v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_COUNT: 5  # 显示最近5条提交
+          OUTPUT_FILE: README.md  # 写入README.md
+          ONLY_REPOS: "xiaoran67/*"  # 仅显示你的仓库
