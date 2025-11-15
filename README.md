@@ -44,9 +44,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
     <img src="https://img.shields.io/docker/pulls/xiaoran67/update" />
   </a>
 
-</p>
 
-<p align="center">
 <!-- 提交连续天数（Streak统计） -->
 <img alt="提交连续天数" align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoran67&theme=dark&fire=FF4500&hide_border=true">
 <!-- 核心代码统计（提交/星标等基础数据） -->
