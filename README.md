@@ -1,5 +1,15 @@
 # 🚀 About
 
+  <a href="https://github.com/xiaoran67/update/releases/latest">
+    <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
+  </a>
+  <a href="https://www.python.org/">
+   </a>
+  <a href="https://github.com/xiaoran67/update/releases/latest">
+    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" />
+
+
+
 ## 📺 [![update](https://github.com/xiaoran67/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/xiaoran67/iptv/actions/workflows/update.yml)
 
 Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
