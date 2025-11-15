@@ -14,7 +14,7 @@
 
 
 
-<p align="center">
+
   <a href="https://github.com/xiaoran67/update">
     <img src="https://img.shields.io/github/stars/xiaoran67/update" />
   </a>
