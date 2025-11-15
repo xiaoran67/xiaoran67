@@ -67,8 +67,6 @@ This project is for educational and communication purposes only. All interface d
   </a>
 </div>
 
-### 📈 Project Metrics
-
 <br>
 
 [![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
