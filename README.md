@@ -59,9 +59,9 @@
 
 ### 📊 访问量统计
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=xiaoran67.xiaoran67&theme=dark&count_bg=FF4500&title_bg=333333" alt="主页访问量" width="30%">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxiaoran67%2Fxiaoran67&count_bg=FF4500&title_bg=333333&title=README访问量" alt="README访问量" width="30%">
-</div>
+<!-- 替换为 shields.io + counterapi -->
+<img src="https://img.shields.io/counterapi/badge?url=https%3A%2F%2Fgithub.com%2Fxiaoran67&style=for-the-badge&label=主页访问量" width="30%">
+<img src="https://img.shields.io/counterapi/badge?url=https%3A%2F%2Fgithub.com%2Fxiaoran67%2Fxiaoran67%2Fblob%2Fmain%2FREADME.md&style=for-the-badge&label=README访问量" width="30%">
 
 
 <!-- 底部备注 -->
