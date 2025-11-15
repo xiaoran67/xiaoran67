@@ -33,10 +33,8 @@
 <img alt="Annual Contribution Heatmap" align="left" width="800px" src="https://github-readme-activity-graph.cyclic.app/graph?username=xiaoran67&theme=github-dark&hide_border=true&area=true&height=300">
 
 
-<!-- 模块6：访问量统计（替换为稳定工具，正常显示） -->
-<img alt="README Views" align="left" width="400px" src="https://visitor-badge.glitch.me/badge?page_id=xiaoran67.xiaoran67&count_bg=%2379C83D&title_bg=%23555555&title=README+Views&style=flat">
-<img alt="Profile Views" align="left" width="400px" src="https://visitor-badge.glitch.me/badge?page_id=xiaoran67&count_bg=%2379C83D&title_bg=%23555555&title=Profile+Views&style=flat">
-
+<!-- 模块6：README访问量（独立统计README文件的访问次数，区分主页总访问量） -->
+<img alt="README Views" align="left" width="400px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxiaoran67%2Fxiaoran67&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=README+Views&edge_flat=false">
 
 <!-- 模块7：开源贡献等级 -->
 <img alt="Open Source Contribution Trophies" align="left" width="800px" src="https://github-profile-trophy.vercel.app/?username=xiaoran67&theme=darkhub&no-frame=true&no-bg=true&margin-w=4">
