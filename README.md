@@ -74,27 +74,6 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 <br clear="both">
 
 
-## 💬 Connect With Me
-<div align="center">
-  <a href="https://t.me/xiaoran37" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:xiaoranmuze@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/xiaoran67" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
-
-<div align="center">
-<div class="contact-info">
-    <a href="https://t.me/xiaoran37" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
-    </a>
-</div>
-
-<!-- $$$$$$$$$$$$$$$$$$ -->
 
 
 <!-- 9. 最新提交记录 -->
@@ -250,4 +229,25 @@ https://emoji6.com/emojiall/
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xiaoran67&repo=update&theme=dark&hide_border=true&description_lines_count=3" alt="update Repository" width="80%">
   </a>
   <p>📢 直播源自动更新仓库，含定时同步、格式校验、异常修复功能，持续维护中</p>
+</div>
+
+
+## 💬 Connect With Me
+<div align="center">
+  <a href="https://t.me/xiaoran37" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:xiaoranmuze@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/xiaoran67" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+<div align="center">
+<div class="contact-info">
+    <a href="https://t.me/xiaoran37" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
+    </a>
 </div>
