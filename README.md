@@ -4,11 +4,7 @@
 
 Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
 
-<div align="center">
 
-<a href="https://trendshift.io/repositories/12969" target="_blank">
-  <img src="https://trendshift.io/api/badge/repositories/12969" alt="IPTV Tool | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
-</a>
 
 [![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/network/members)
