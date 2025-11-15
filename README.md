@@ -1,9 +1,5 @@
 ### 🚀 About
 
-<!-- 1. 主页总访问量-->
-![主页总访问量](https://count.getloli.com/get/@xiaoran67?theme=asoul)
-<br clear="both">
-
 <!-- 2. 提交连续天数（Streak统计） -->
 <img alt="提交连续天数" align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoran67&theme=dark&fire=FF4500&hide_border=true">
 
@@ -13,6 +9,10 @@
 
 <!-- 4. 常用编程语言占比（紧凑列表） -->
 <img alt="编程语言占比（紧凑）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran67&layout=compact&theme=dark&hide_border=true">
+<br clear="both">
+
+<!-- 1. 主页总访问量-->
+![主页总访问量](https://count.getloli.com/get/@xiaoran67?theme=asoul)
 <br clear="both">
 
 <!-- 5. 编程语言占比（环形图） -->
