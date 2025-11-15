@@ -74,5 +74,5 @@
 
 <h2>📊 Star History</h2>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=vbskycn/iptv&type=Date)](https://star-history.com/#xiaoran67/xiaoran67&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=vbskycn/iptv&type=Date)](https://star-history.com/#xiaoran67/update&Date)
 
