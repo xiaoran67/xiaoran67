@@ -152,7 +152,6 @@ Demo🔗 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv
 
 Demo🔗 https://live.fanmingming.cn/player/?vurl=https://0472.org/hls/cgtn.m3u8
 
-[回到顶部](#readme)
 ## 免责声明
 
 本项目仅供学习交流用途，接口数据均来源于网络，如有侵权，请联系删除
@@ -171,8 +170,8 @@ Demo🔗 https://live.fanmingming.cn/player/?vurl=https://0472.org/hls/cgtn.m3u8
 No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a [pull request](https://github.com/xiaoran67/update/pulls) or opening an [issue](https://github.com/xiaoran67/update/issues/new?assignees=freearhey&labels=removal+request&template=--removal-request.yml&title=Remove%3A+). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
 
 
-## 🍓Github在线加速镜像 
-## Github国内代理：https://ghproxy.link  https://xiake.pro/
+## 🍓Github proxy 
+## Github proxy cn ：https://ghproxy.link  https://xiake.pro/
                  
 
     https://ghfile.geekertao.top/https://github.com/
@@ -234,13 +233,13 @@ No video files are stored in this repository. The repository simply contains use
 
 ## 🍑电视直播搜索引擎
 
-    https://api.pearktrue.cn/api/tv/search.php?name=明珠台    (搜索电视直播源）
+    https://api.pearktrue.cn/api/tv/search.php?name=明珠台
     https://www.foodieguide.com/iptvsearch/
     http://tonkiang.us
     https://streamtest.in
     https://iptv-org.github.io
 
-## emoji表情符号大全-emoji在线复制粘贴 
+## emoji
 
 https://play.igo9go.cn/emojiall/#animals-nature
 
