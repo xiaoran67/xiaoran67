@@ -99,20 +99,20 @@
 
 <!-- $$$$$$$$$$$$$$$$$$ -->
 <p align="center">
-  <a href="https://github.com/Guovin/iptv-api/releases/latest">
-    <img src="https://img.shields.io/github/v/release/guovin/iptv-api" />
+  <a href="https://github.com/xiaoran67/update/releases/latest">
+    <img src="https://img.shields.io/github/v/release/xiaoran67/update" />
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
   </a>
-  <a href="https://github.com/Guovin/iptv-api/releases/latest">
-    <img src="https://img.shields.io/github/downloads/guovin/iptv-api/total" />
+  <a href="https://github.com/xiaoran67/update/releases/latest">
+    <img src="https://img.shields.io/github/downloads/xiaoran67/update/total" />
   </a>
-  <a href="https://hub.docker.com/repository/docker/guovern/iptv-api">
-    <img src="https://img.shields.io/docker/pulls/guovern/iptv-api" />
+  <a href="https://hub.docker.com/repository/docker/xiaoran67/update">
+    <img src="https://img.shields.io/docker/pulls/xiaoran67/update" />
   </a>
-  <a href="https://github.com/Guovin/iptv-api/fork">
-    <img src="https://img.shields.io/github/forks/guovin/iptv-api" />
+  <a href="https://github.com/xiaoran67/update/fork">
+    <img src="https://img.shields.io/github/forks/xiaoran67/update" />
   </a>
 </p>
 <!-- $$$$$$$$$$$$$$$$$$ -->
