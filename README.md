@@ -47,8 +47,7 @@
 [MIT](./LICENSE) License &copy; 2023-PRESENT [xiaoran67](https://github.com/xiaoran67)
 
 ### ⚠️ Disclaimer
-本项目仅供学习交流用途，接口数据均来源于网络，如有侵权，请联系删除
-**xiaoran67 doesn't provide any playlists or other digital content.**
+This project is for educational and communication purposes only. All interface data is sourced from the internet; we do not provide any playlists or other digital content, and please contact us for removal if there is any infringement.
 
 
 
