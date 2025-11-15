@@ -1,14 +1,7 @@
 ### Hi there 👋
+<!-- 模块4：代码统计（提交量、星标数等核心数据） -->
+<img alt="代码行数统计" align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=xiaoran67&show_icons=true&count_private=true&theme=dark&hide_border=true">
 
-<!-- 个人信息（已适配直播源项目场景，页面显示为英文） -->
-- 🔭 I’m currently working on Live source auto-update project development and maintenance
-- 🌱 I’m currently learning GitHub Actions automated deployment & Python crawler optimization
-- 👯 I’m looking to collaborate on Open-source live source projects & crawler tool development
-- 🤔 I’m looking for help with GitHub Actions permission configuration & live source stability optimization
-- 💬 Ask me about Python basic development, simple crawler implementation & GitHub repository management
-- 📫 How to reach me: Telegram[@xiaoran37](https://t.me/xiaoran37) / E-mail xiaoranmuze@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love collecting various open-source tools; good at quickly building lightweight automated scripts
 
 <!-- 核心模块1：GitHub综合数据总览（覆盖基础统计，如贡献、仓库、社区数据） -->
 <img alt="GitHub Comprehensive Data" align="left" width="600px" src="https://metrics.lecoq.io/xiaoran67?template=classic&base=header,activity,community,repo,metadata&activity=commits,prs,issues,code_reviews&community=followers,following,stars,sponsors&repo=stars,created,updated,topics,license&config.timezone=Asia/Shanghai">
