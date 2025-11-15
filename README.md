@@ -150,7 +150,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 本项目仅供学习交流用途，接口数据均来源于网络，如有侵权，请联系删除
 
-## LICENSE
+## License
 
 [MIT](./LICENSE) License &copy; 2023-PRESENT [xiaoran67](https://github.com/xiaoran67)
 
@@ -158,21 +158,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 **xiaoran67 doesn't provide any playlists or other digital content.**
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-
-
 
 ## Legal
 
 No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a [pull request](https://github.com/xiaoran67/update/pulls) or opening an [issue](https://github.com/xiaoran67/update/issues/new?assignees=freearhey&labels=removal+request&template=--removal-request.yml&title=Remove%3A+). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
-
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
