@@ -64,6 +64,30 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a [pull request](https://github.com/xiaoran67/update/pulls) or opening an [issue](https://github.com/xiaoran67/update/issues/new?assignees=freearhey&labels=removal+request&template=--removal-request.yml&title=Remove%3A+). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
 
 
+
+## 💬 Connect With Me
+<div align="center">
+  <a href="https://t.me/xiaoran37" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:xiaoranmuze@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/xiaoran67" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+<div align="center">
+<div class="contact-info">
+    <a href="https://t.me/xiaoran37" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
+    </a>
+</div>
+
+
+
+
 [![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/update)](https://github.com/xiaoran67/update/issues)
@@ -98,25 +122,3 @@ No video files are stored in this repository. The repository simply contains use
     <a href="https://hub.docker.com/repository/docker/xiaoran67/update">
     <img src="https://img.shields.io/docker/pulls/xiaoran67/update" />
   </a>
-
-
-## 💬 Connect With Me
-<div align="center">
-  <a href="https://t.me/xiaoran37" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:xiaoranmuze@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/xiaoran67" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
-
-<div align="center">
-<div class="contact-info">
-    <a href="https://t.me/xiaoran37" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-@xiaoran37-blue?style=flat-square&logo=telegram" alt="Telegram" />
-    </a>
-</div>
-
