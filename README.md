@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **GitHub Actions automated deployment & Python crawler optimization** (专注自动化部署与爬虫性能提升)
 - 👯 I’m looking to collaborate on **Open-source live source projects & lightweight crawler tool development** (欢迎开源直播源/爬虫工具合作)
 - 💬 Ask me about **Python basic development, simple crawler implementation & GitHub repository management** (可交流Python基础、爬虫落地与仓库配置)
-- 📫 How to reach me: **Telegram[@xiaoran37](https://t.me/xiaoran37) / E-mail xiaoranmuze@gmail.com
+- 📫 How to reach me: Telegram[@xiaoran37](https://t.me/xiaoran37) / E-mail xiaoranmuze@gmail.com
 
 
 ### 📊 GitHub Stats
