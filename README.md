@@ -11,10 +11,6 @@
 <img alt="编程语言占比（紧凑）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran67&layout=compact&theme=dark&hide_border=true">
 <br clear="both">
 
-<!-- 1. 主页总访问量-->
-![主页总访问量](https://count.getloli.com/get/@xiaoran67?theme=asoul)
-<br clear="both">
-
 <!-- 5. 编程语言占比（环形图） -->
 <img alt="编程语言占比（环形）" align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoran67&layout=donut&theme=dark&hide_border=true&include_all_commits=true">
 
@@ -24,6 +20,10 @@
 
 <!-- 7. 开源贡献等级徽章 -->
 <img alt="开源贡献等级" align="left" width="400px" src="https://github-profile-trophy.vercel.app/?username=xiaoran67&theme=darkhub&no-frame=true&no-bg=true&margin-w=4">
+<br clear="both">
+
+<!-- 1. 主页总访问量-->
+![主页总访问量](https://count.getloli.com/get/@xiaoran67?theme=asoul)
 <br clear="both">
 
 <!-- 8. 联系方式区域 -->
